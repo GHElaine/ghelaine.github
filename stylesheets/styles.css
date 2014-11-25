@@ -659,7 +659,7 @@ header {
   right: 0;
   width: 100%;
   text-align: center;
-  background: url(../images/background.png) #4276b6;
+  background: url(../images/background.png) #99011E;
   -moz-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
   -webkit-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
   -o-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
@@ -689,7 +689,7 @@ header p {
 #banner {
   z-index: 100;
   left: 0;
-  right: 50%;
+  right: 0;
   height: 50px;
   margin-right: -382px;
   position: fixed;
