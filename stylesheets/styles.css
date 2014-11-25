@@ -738,13 +738,13 @@ header p {
   text-align: center;
 }
 #banner .button:hover {
-  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #ffe788), color-stop(100%, #ffe788));
-  background: -webkit-linear-gradient(#ffe788, #ffe788);
-  background: -moz-linear-gradient(#ffe788, #ffe788);
-  background: -o-linear-gradient(#ffe788, #ffe788);
-  background: -ms-linear-gradient(#ffe788, #ffe788);
-  background: linear-gradient(#ffe788, #ffe788);
-  background-color: #ffeca0;
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #CDC3C3), color-stop(100%, #BDB9AC));
+  background: -webkit-linear-gradient(#CDC3C3, #BDB9AC);
+  background: -moz-linear-gradient(#CDC3C3, #BDB9AC);
+  background: -o-linear-gradient(#CDC3C3, #BDB9AC);
+  background: -ms-linear-gradient(#CDC3C3, #BDB9AC);
+  background: linear-gradient(#CDC3C3, #BDB9AC);
+  background-color: #CDC3C3;
 }
 #banner .fork {
   position: fixed;
